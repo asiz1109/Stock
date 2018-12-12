@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Stock</string>
+    <string name="number">КОЛИЧЕСТВО</string>
+    <string name="ok">OK</string>
+    <string name="code">АРТИКУЛ</string>
+    <string name="name">НАИМЕНОВАНИЕ</string>
+    <string name="place">МЕСТО</string>
+    <string name="edit_number">КОЛИЧЕСТВО</string>
+    <string name="add">ДОБАВИТЬ</string>
+    <string name="remove">УБРАТЬ</string>
+    <string name="search">ПОИСК</string>
+    <string name="add_field">ДОБАВИТЬ</string>
+    <string name="code1">артикул </string>
+    <string name="save">СОХРАНИТЬ</string>
+    <string name="edit">РЕДАКТИРОВАТЬ</string>
+    <string name="delete">УДАЛИТЬ</string>
+    <string name="info">Информация о товаре</string>
+    <string name="change_number">Изменить количество</string>
+    <string name="add_new">Добавить позицию</string>
+    <string name="edit_info">Редактировать</string>
+    <string name="add_new_item">Добавить</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="signin">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="find">Найти по артикулу</string>
+</resources>

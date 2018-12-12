@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127120420872",
+    "firebase_url": "https://stock-lm.firebaseio.com",
+    "project_id": "stock-lm",
+    "storage_bucket": "stock-lm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127120420872:android:1b5897291b903356",
+        "android_client_info": {
+          "package_name": "com.anna.stock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127120420872-fuhp2qcgak3tq313a8pfnshl9kroh3fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anna.stock",
+            "certificate_hash": "361e5837f4a9edd17a34758159ed44325684e89c"
+          }
+        },
+        {
+          "client_id": "127120420872-0orddf99csii1ca4catidsaplk5bu9hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGdT4J0nsBNLszCWz5Lj7vDXKrqb0em0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127120420872-0orddf99csii1ca4catidsaplk5bu9hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
